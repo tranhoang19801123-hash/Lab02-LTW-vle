@@ -1,0 +1,7 @@
+D:\LAPTRINHWIN\Lab02\BaiTap1\BaiTap1\obj\Debug\BaiTap1.csproj.AssemblyReference.cache
+D:\LAPTRINHWIN\Lab02\BaiTap1\BaiTap1\obj\Debug\BaiTap1.csproj.CoreCompileInputs.cache
+D:\LAPTRINHWIN\Lab02\BaiTap1\BaiTap1\bin\Debug\BaiTap1.exe.config
+D:\LAPTRINHWIN\Lab02\BaiTap1\BaiTap1\bin\Debug\BaiTap1.exe
+D:\LAPTRINHWIN\Lab02\BaiTap1\BaiTap1\bin\Debug\BaiTap1.pdb
+D:\LAPTRINHWIN\Lab02\BaiTap1\BaiTap1\obj\Debug\BaiTap1.exe
+D:\LAPTRINHWIN\Lab02\BaiTap1\BaiTap1\obj\Debug\BaiTap1.pdb
